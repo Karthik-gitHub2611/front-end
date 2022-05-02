@@ -1,11 +1,11 @@
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-     Welcome to Saravana Stores
+    <div>
+      Hi Saravana store
     </div>
-  );
+  )
 }
 
-export default App;  
+export default App;
